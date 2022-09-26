@@ -13,7 +13,8 @@ The instructions on this page will guide you through configuring the pipeline te
 	```
 
 	NOTE	
-	**environmentCode** should be the same as the one used in the deployment steps
+	* * **environmentCode** should be the same as the one used in the deployment steps
+	* * This step may need to be repeated a couple times to overcome a possible external error
 
 * Run the following command to copy the sample GeoTiff image and the required configurations into the storage account for detecting swimming pools using the Object Detection CV model: 
 
